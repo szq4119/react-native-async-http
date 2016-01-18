@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      "react-native-async-http",
+      "/Users/alexa/Documents/New/Axmall"
+    ]
+  ],
+  "_cnpm_publish_time": 1449846953549,
+  "_from": "react-native-async-http@*",
+  "_id": "react-native-async-http@0.0.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-async-http",
+  "_nodeVersion": "4.1.2",
+  "_npmUser": {
+    "email": "77165378@qq.com",
+    "name": "smccz"
+  },
+  "_npmVersion": "2.14.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-async-http",
+    "raw": "react-native-async-http",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-async-http/download/react-native-async-http-0.0.3.tgz",
+  "_shasum": "b085c39f0e827d8544d2dee2c510a5d6891b3543",
+  "_shrinkwrap": null,
+  "_spec": "react-native-async-http",
+  "_where": "/Users/alexa/Documents/New/Axmall",
+  "author": {
+    "name": "szq4119"
+  },
+  "bugs": {
+    "url": "https://github.com/szq4119/react-native-async-http/issues"
+  },
+  "dependencies": {},
+  "description": "React Native component for async-http",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "noattachment": false,
+    "shasum": "b085c39f0e827d8544d2dee2c510a5d6891b3543",
+    "size": 11246451,
+    "tarball": "http://registry.npm.taobao.org/react-native-async-http/download/react-native-async-http-0.0.3.tgz"
+  },
+  "gitHead": "0291e422ac2dd277a5c3e67d8f3d9d7be40cc99a",
+  "homepage": "https://github.com/szq4119/react-native-async-http#readme",
+  "keywords": [
+    "Asynchronous Http Client",
+    "react native",
+    "react native android cookie"
+  ],
+  "license": "MIT",
+  "main": "AsyncHttp.js",
+  "maintainers": [
+    {
+      "name": "smccz",
+      "email": "77165378@qq.com"
+    }
+  ],
+  "name": "react-native-async-http",
+  "optionalDependencies": {},
+  "publish_time": 1449846953549,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szq4119/react-native-async-http.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.3"
+}
